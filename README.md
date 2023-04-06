@@ -2,8 +2,8 @@
 <img src="https://i.imgur.com/ZOUm27S.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Post-Install Configuration</h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket..<br />
+<h1>osTicket - Post-Install Configuration and Usage</h1>
+This tutorial outlines the post-install configuration and some of the usage of the open-source help desk ticketing system osTicket. We will essentialy show here how we can work in ostTicket system  as an Admin by creating users, departments, setting up and giving permission levels on one side and how we can actualy act as a profesional hel pdesk responding to tickets and resolving issues on the other side.<br />
 
 
 <h2>Video Demonstration</h2>
@@ -14,21 +14,20 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Internet Information Services (IIS)
 - osTicket (Help Desk Ticketing System)
 
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
 
-<h2>Post-Install Configuration Objectives</h2>
+<h2>Post-Install Configuration Objectives
 
 - Intake
 - Assignment and Communication
 - Working the Issue
 - Resolution
 
-<h2>Configuration Steps/h2>
+<h2>Configuration Steps
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
