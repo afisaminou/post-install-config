@@ -32,7 +32,7 @@ This tutorial outlines the post-install configuration and some of the usage of t
 </p>
 Please, note that all the bellow manip are as Admin.</p>
 </p>
-Step1. Configure Roles: </p>
+Step 1. Configure Roles: </p>
 
 * Admin Panel -> Agents -> Roles <p>
 * Let's create for testing purposes the role: "Supreme Admin" and assign permissions
@@ -42,22 +42,65 @@ Step1. Configure Roles: </p>
 </p>
 <p>
 <p> 
-Step2. Configure the Departments: </p>
+Step 2. Configure the Departments: </p>
  
 * Admin Panel -> Agents -> Departments <p>
 * Let's create for testing purposes the department: "System Administrators"
 <img src="https://i.imgur.com/XpDoBW6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-Step3. Configure Teams: </p>
+Step 3. Configure Teams: </p>
 
 * Admin Panel -> Agents -> Teams <p>
 * Let's create for testing purposes a New Team: "Level II Support"
 <img src="https://i.imgur.com/dteHRmL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+Step 4. Allow anyone to create tickets: </p>
+
+* Admin Panel -> Settings -> Users -> Users Settings <p>
+* Registration Required: Require registration and login to create tickets
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/oAKkhUb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+ Step 5. Configure Agents (Workers who will work on the tickets): </p>
+
+* Admin Panel -> Agents -> Add New Agent <p>
+* New Agent created: Jane Doe
+<p>
+<img src="https://i.imgur.com/VyGVYrg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+Step 6. Configure Users Directory (customers): </p>
+
+* Agent Panel -> Users -> User Directory -> Add User <p>
+* New User created: Asia Asia
+<p>
+<img src="https://i.imgur.com/rYSWIzS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
+ Step 7. Configure SLA (Service Level Agreements): </p>
+
+* Admin Panel -> Manage -> SLA -> Add New SLA <p>
+* For testing purposes, let's create three SLA: <p>
+Sev-A (1 hour, 24/7)<p>
+Sev-B (4 hours, 24/7)<p>
+Sev-C (8 hours, business hours)<p>
+<p>
+<img src="https://i.imgur.com/Rnk8p2N.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+Step8. Configure Help Topics: </p>
+
+* Admin Panel -> Manage ->Help Topics -> Add New Help Topic <p>
+* For the purposes of testing create four topics:<p>
+Business Critical Outage<p>
+Personal Computer Issues<p>
+Equipment Request<p>
+Password Reset<p>
+<p>
+<img src="https://i.imgur.com/KAkwRZ3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src="https://i.imgur.com/q35AGpu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
+ Step9. Allow anyone to create tickets: </p>
+
+* Admin Panel -> Settings -> Users -> Users Settings <p>
+* Registration Required: Require registration and login to create tickets
+<p>
 <br />
