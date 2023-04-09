@@ -27,35 +27,32 @@ This tutorial outlines the post-install configuration and some of the usage of t
 - Working the Issue
 - Resolution
 
-<h2>Configuration Steps
-Please, note that all the bellow manip are as Admin.
+<h2>Configuration Steps:</p>
+</p>
+</p>
+Please, note that all the bellow manip are as Admin.</p>
+</p>
+Step1. Configure Roles: </p>
 
-* Configure Roles: Admin Panel -> Agents -> Roles <p>
+* Admin Panel -> Agents -> Roles <p>
 * Let's create for testing purposes the role: "Supreme Admin" and assign permissions
 <p>
 <img src="https://i.imgur.com/AwHdoR1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/9BNByGM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<p> 
+Step2. Configure the Departments: </p>
+ 
+* Admin Panel -> Agents -> Departments <p>
+* Let's create for testing purposes the department: "System Administrators"
+<img src="https://i.imgur.com/XpDoBW6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<br />
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+Step3. Configure Teams: </p>
 
-<p>
-<img src="https://i.imgur.com/RQbdeVF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/RQbdeVF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+* Admin Panel -> Agents -> Teams <p>
+* Let's create for testing purposes a New Team: "Level II Support"
+<img src="https://i.imgur.com/dteHRmL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
