@@ -91,9 +91,3 @@ Password Reset<p>
 <img src="https://i.imgur.com/KAkwRZ3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <img src="https://i.imgur.com/q35AGpu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
- Step9. Allow anyone to create tickets: </p>
-
-* Admin Panel -> Settings -> Users -> Users Settings <p>
-* Registration Required: Require registration and login to create tickets
-<p>
-<br />
