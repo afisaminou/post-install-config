@@ -86,7 +86,7 @@ Step8. Configure Help Topics: </p>
 Business Critical Outage<p>
 Personal Computer Issues<p>
 Equipment Request<p>
-Password Reset<p>
+Password Reset<p> 
 <p>
 <img src="https://i.imgur.com/KAkwRZ3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <img src="https://i.imgur.com/q35AGpu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
