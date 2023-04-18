@@ -77,7 +77,7 @@ Sev-A (1 hour, 24/7)<p>
 Sev-B (4 hours, 24/7)<p>
 Sev-C (8 hours, business hours)<p>
 <p>
-<img src="https://i.imgur.com/Rnk8p2N.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vMtmeG5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 Step8. Configure Help Topics: </p>
 
