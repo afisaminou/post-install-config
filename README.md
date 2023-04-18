@@ -60,7 +60,7 @@ Step 4. Allow anyone to create tickets: </p>
 * Admin Panel -> Agents -> Add New Agent <p>
 * New Agent created: Jane Doe
 <p>
-<img src="https://i.imgur.com/VyGVYrg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Ex7x7b1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 Step 6. Configure Users Directory (customers): </p>
 
