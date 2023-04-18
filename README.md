@@ -61,14 +61,14 @@ Step 4. Allow anyone to create tickets: </p>
 * New Agent created: Jane Doe
 <p>
 <img src="https://i.imgur.com/Ex7x7b1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<br>
 Step 6. Configure Users Directory (customers): </p>
 
 * Agent Panel -> Users -> User Directory -> Add User <p>
-* New User created: Asia Asia
-<p>
-<img src="https://i.imgur.com/rYSWIzS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<p>
+* New User created: Asia Asia <p>
+
+<img src="https://i.imgur.com/d8b3qTQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br>
  Step 7. Configure SLA (Service Level Agreements): </p>
 
 * Admin Panel -> Manage -> SLA -> Add New SLA <p>
