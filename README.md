@@ -78,13 +78,13 @@ Sev-C (8 hours, business hours)<p>
 Step8. Configure Help Topics: </p>
 
 * Admin Panel -> Manage ->Help Topics -> Add New Help Topic <p>
-* For the purposes of testing create four topics:<p>
+* For the purposes of testing, let's create four topics:<p>
 Business Critical Outage<p>
 Personal Computer Issues<p>
 Equipment Request<p>
 Password Reset<p> 
 <p>
-<img src="https://i.imgur.com/wYdDoWH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Qy6iv5W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <img src="https://i.imgur.com/q35AGpu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br>
 
