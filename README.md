@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration and Usage</h1>
-This tutorial outlines the post-install configuration and some of the usage of the open-source help desk ticketing system. We will essentialy show here how we can work in osTicket system as an Admin by creating users, departments, setting up and giving permission levels.on one hand and how we can actually act as a profesional helpdesk responding to tickets and resolving issues on the other hand.<br />
+This tutorial outlines the post-install configuration and some of the usage of the open-source help desk ticketing system. We will essentialy show here how we can work in osTicket system as an Admin by creating users, departments, setting up and giving permission levels on one hand and how we can actually act as a profesional helpdesk responding to tickets and resolving issues on the other hand.<br />
 
 
 <h2>Environments and Technologies Used</h2>
